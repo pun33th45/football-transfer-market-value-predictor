@@ -183,17 +183,13 @@ Frontend on Vercel:
 
 ## UI Screenshots
 
-### Home Dashboard
+### Predictor Output
 
-![Home dashboard](docs/screenshots/home-dashboard.png)
+![Predictor output](docs/screenshots/predictor-output.png)
 
-### Hero View
+### Player Valuation Result
 
-![Hero view](docs/screenshots/home-hero.png)
-
-### Prediction Studio
-
-![Prediction studio](docs/screenshots/prediction-studio.png)
+![Player valuation result](docs/screenshots/player-value-card.png)
 
 ## Notes
 
