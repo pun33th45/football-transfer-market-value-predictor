@@ -21,6 +21,7 @@ frontend/lifeos-*.log
 frontend/lifeos-*.err
 frontend/lifeos-*.err.log
 frontend/lifeos-*.out.log
+frontend/preview-server.log
 frontend/transfer-dev.log
 frontend/transfer-dev.err
 frontend/tsconfig.tsbuildinfo

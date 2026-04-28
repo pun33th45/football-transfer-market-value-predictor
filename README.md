@@ -133,6 +133,15 @@ npm run dev
 
 Open `http://localhost:3000`.
 
+If the Next.js dev worker is blocked by a local Windows policy, use the static preview server:
+
+```bash
+cd frontend
+npm run preview:static
+```
+
+Open `http://127.0.0.1:4173`.
+
 Pages:
 
 - Home page with project overview and market trend chart
@@ -174,11 +183,17 @@ Frontend on Vercel:
 
 ## UI Screenshots
 
-Add screenshots after running locally:
+### Home Dashboard
 
-- `docs/screenshots/home.png`
-- `docs/screenshots/predict.png`
-- `docs/screenshots/result.png`
+![Home dashboard](docs/screenshots/home-dashboard.png)
+
+### Hero View
+
+![Hero view](docs/screenshots/home-hero.png)
+
+### Prediction Studio
+
+![Prediction studio](docs/screenshots/prediction-studio.png)
 
 ## Notes
 
